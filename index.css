@@ -1,0 +1,17 @@
+html {
+    background: #cc0000;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-size: 1.5em;
+    font-family: -apple-system, "Helvetica Neue", sans-serif;
+    text-shadow: 4px 4px black;
+}
